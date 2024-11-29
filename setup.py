@@ -1,6 +1,6 @@
 import setuptools
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 PACKAGE_NAME = "S3GeoJSONProvider"
 AUTHOR = "Valerio Luzzi, Marco Renzi, EHJ, JSL"
 EMAIL = "valerio.luzzi@gecosistema.com, marco.renzi@gecosistema.com"
